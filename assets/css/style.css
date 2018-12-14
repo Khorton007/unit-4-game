@@ -1,0 +1,41 @@
+﻿body {
+	background-image: url("gradient_bg.png");
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+	background-color: brown;
+	color: white;
+}
+
+.target-number {
+	font-size: 30px;
+	background-color: #F8CF9C;
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 4px;
+}
+
+.win-lose-counter {
+	background-color: #9CE7F8;
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 4px;
+}
+
+.crystal-images {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.total-score {
+	color: white;
+	background-color: #4aaaa5;
+}
+
+.score-number {
+	color: white;
+	background-color: #4aaaa5;
+	font-size: 30px;
+}
